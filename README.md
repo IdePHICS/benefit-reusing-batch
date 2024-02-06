@@ -19,4 +19,4 @@ This repository contains the following code:
  #### Reference
  Yatin Dandi, Emanuele Troiani, Luca Arnaboldi, Luca Pesce, Lenka Zdeborova, and
 Florent Krzakala
-*The Benefits of Reusing Batch for Gradient Descent in Two-Layer Networks: Breaking the Curse of Information and Leap Exponents*, 2024, <https://soon.on.arXiv/>
+*The Benefits of Reusing Batch for Gradient Descent in Two-Layer Networks: Breaking the Curse of Information and Leap Exponents*, 2024, <http://arxiv.org/abs/2402.03220/>
